@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ongoing projects | Home</title>
+    <link>https://whitenoise8.github.io/working/</link>
+      <atom:link href="https://whitenoise8.github.io/working/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ongoing projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whitenoise8.github.io/media/icon_hu34f83c4eb77735e1628e9d2a56ef70aa_59630_512x512_fill_lanczos_center_3.png</url>
+      <title>Ongoing projects</title>
+      <link>https://whitenoise8.github.io/working/</link>
+    </image>
+    
+    <item>
+      <title>Computationally efficient segmentation for complex time series</title>
+      <link>https://whitenoise8.github.io/working/change-point-computationally-efficient/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://whitenoise8.github.io/working/change-point-computationally-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic quantiles graphical models</title>
+      <link>https://whitenoise8.github.io/working/dynamic-quantile-graphical-modeling/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://whitenoise8.github.io/working/dynamic-quantile-graphical-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Bayesian semi-parametric regression via increasing shrinkage priors</title>
+      <link>https://whitenoise8.github.io/working/improving-semiparametric/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://whitenoise8.github.io/working/improving-semiparametric/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
