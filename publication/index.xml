@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Home</title>
+    <link>https://whitenoise8.github.io/publication/</link>
+      <atom:link href="https://whitenoise8.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whitenoise8.github.io/media/icon_hu34f83c4eb77735e1628e9d2a56ef70aa_59630_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://whitenoise8.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Variational inference for large Bayesian vector autoregressions</title>
+      <link>https://whitenoise8.github.io/publication/variational-inference-for-large-bayesian-vector-autoregressions/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://whitenoise8.github.io/publication/variational-inference-for-large-bayesian-vector-autoregressions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic variable selection in high-dimensional predictive regressions</title>
+      <link>https://whitenoise8.github.io/publication/dynamic-variable-selection-in-high-dimensional-predictive-regressions/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://whitenoise8.github.io/publication/dynamic-variable-selection-in-high-dimensional-predictive-regressions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothing volatility targeting</title>
+      <link>https://whitenoise8.github.io/publication/smoothing-volatility-targeting/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://whitenoise8.github.io/publication/smoothing-volatility-targeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comprehensive study on the Bayesian modelling of extreme rainfall. A case study from Pakistan</title>
+      <link>https://whitenoise8.github.io/publication/a-comprehensive-study-on-the-bayesian-modelling-of-extreme-rainfall.-a-case-study-from-pakistan/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://whitenoise8.github.io/publication/a-comprehensive-study-on-the-bayesian-modelling-of-extreme-rainfall.-a-case-study-from-pakistan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Home</title>
+    <link>https://whitenoise8.github.io/event/</link>
+      <atom:link href="https://whitenoise8.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whitenoise8.github.io/media/icon_hu34f83c4eb77735e1628e9d2a56ef70aa_59630_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://whitenoise8.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Approximate Bayesian inference for dynamic sparsity in time-varying parameter model</title>
+      <link>https://whitenoise8.github.io/talk/approximate-bayesian-inference-for-dynamic-sparsity-in-time-varying-parameter-model/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://whitenoise8.github.io/talk/approximate-bayesian-inference-for-dynamic-sparsity-in-time-varying-parameter-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
